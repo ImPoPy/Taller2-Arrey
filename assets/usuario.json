@@ -1,0 +1,9 @@
+{
+  "usuarios": [
+    { "email": "juan313540@gmail.com", "password": "123", "nombre": "Juan Carlos" },
+    { "email": "kellyocampo@gmail.com", "password": "123", "nombre": "Kelly Ocampo" },
+    { "email": "rosamilena@gmail.com", "password": "123", "nombre": "Rosa Milena" },
+    { "email": "mariajose@gmail.com", "password": "123", "nombre": "Maria Jose" },
+    { "email": "juansebastian@gmail.com", "password": "123", "nombre": "Juan Sebastian" }
+  ]
+}

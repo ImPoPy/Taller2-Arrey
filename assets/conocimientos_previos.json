@@ -1,0 +1,49 @@
+{
+  "elementos": [
+    {
+      "id": 1,
+      "titulo": "Labrador Retriever",
+      "descripcion": "El Labrador Retriever es una raza de perro conocida por su inteligencia, lealtad y energía. Son excelentes perros de familia y muy amigables con los niños. Requieren ejercicio diario y disfrutan nadar.",
+      "urlImagen": "https://wuftrek.com/cdn/shop/articles/golden-retriever1-371867-367135_5a0b7b7b-8a3e-445d-a896-e82f6b5a2143.jpg?v=1764555260",
+      "mostrarTodo": true
+    },
+    {
+      "id": 2,
+      "titulo": "Bulldog Francés",
+      "descripcion": "El Bulldog Francés es un perro pequeño, de orejas de murciélago y carácter juguetón. Es muy popular en apartamentos porque no requiere mucho ejercicio. Son cariñosos y se llevan bien con otros animales.",
+      "urlImagen": "https://tucachorrotienda.com/wp-content/uploads/2018/06/bulldog-frances-cachorro8.jpg",
+      "mostrarTodo": false
+    },
+    {
+      "id": 3,
+      "titulo": "Pastor Alemán",
+      "descripcion": "El Pastor Alemán es una raza inteligente, leal y versátil. Se utiliza comúnmente como perro policía, de rescate y guía. Necesitan entrenamiento constante y mucho ejercicio.",
+      "urlImagen": "https://caminandog.com.mx/b/wp-content/uploads/2020/07/10-cosas-sobre-pastor-aleman-Blog02.jpg",
+      "mostrarTodo": false
+    },
+    {
+      "id": 4,
+      "titulo": "Pelota de goma",
+      "descripcion": "Pelota resistente para perros que aman morder y jugar a buscar. Hecha de goma natural, no tóxica. Ideal para razas medianas y grandes.",
+      "urlImagen": "https://m.media-amazon.com/images/I/71dCtIoEcLL.jpg",
+      "mostrarTodo": false,
+      "precio": "$12.000"
+    },
+    {
+      "id": 5,
+      "titulo": "Cuerda mordedora",
+      "descripcion": "Cuerda trenzada de algodón para jugar a tirar y fortalecer la dentadura. Ayuda a limpiar los dientes y prevenir el sarro. Apropiada para todas las tallas.",
+      "urlImagen": "https://m.media-amazon.com/images/I/71RQT5x0O9L._AC_UF1000,1000_QL80_.jpg",
+      "mostrarTodo": false,
+      "precio": "$8.500"
+    },
+    {
+      "id": 6,
+      "titulo": "Hueso de nylon",
+      "descripcion": "Hueso duradero de nylon con sabor a pollo. Perfecto para perros que muerden mucho. Ayuda a reducir el estrés y el aburrimiento.",
+      "urlImagen": "https://http2.mlstatic.com/D_NQ_NP_618727-CBT86253278097_062025-O.webp",
+      "mostrarTodo": false,
+      "precio": "$5.900"
+    }
+  ]
+}
